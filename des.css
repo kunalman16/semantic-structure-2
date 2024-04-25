@@ -1,0 +1,74 @@
+main{
+    background-color:  rgb(210, 181, 238);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    border-radius: 4px;
+    width: 400px;
+}
+main *{
+    /* border: 1px solid black; */
+    border-radius: 4px;
+    gap: 10px;
+}
+#n1{
+    background-color:  rgb(184, 120, 245);
+    padding: 20px;
+    text-align: center;
+    font-weight: 500;
+    font-size: x-large; 
+    margin-bottom: 10px;
+}
+#n2{
+    background-color: rgb(235, 243, 119);
+    padding: 15px;
+    text-align: center;
+    font-weight: 500;
+    font-size: x-large;
+    display: block; 
+    margin-bottom: 10px;
+}
+.container{
+display:grid;
+grid-template-columns: auto auto;
+}
+#n31{
+    background-color:  rgb(184, 120, 245);
+    padding: 20px;
+    text-align: center;
+    font-weight: 500;
+    font-size: x-large;
+}
+#n32{
+    background-color: rgb(184, 120, 245);
+    padding: 20px;
+    text-align: center;
+    font-weight: 500;
+    font-size: x-large;
+}
+#n321{
+    border: 2px solid rgb(112, 26, 192);
+    padding: 30px;
+}
+#n3212{
+    border: 2px solid rgb(112, 26, 192);
+    padding: 15px;
+    margin-top: 10px;
+}
+#n3211{
+    border: 2px solid rgb(112, 26, 192);
+    padding: 15px;
+    margin-top: 5px;
+}
+#n322{
+    border: 2px solid rgb(112, 26, 192);
+    margin-top: 10px;
+    padding: 10px;
+}
+#n4{
+    background-color:  rgb(184, 120, 245);
+    padding: 20px;
+    text-align: center;
+    font-weight: 500;
+    font-size: x-large;
+    margin-top: 10px;
+}
